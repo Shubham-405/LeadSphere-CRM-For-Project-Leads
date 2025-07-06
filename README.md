@@ -63,6 +63,28 @@ Visit `http://localhost:5000` in your browser.
 
 ---
 
+🖼️ Screenshots
+
+🚪 Landing Page
+
+![Landing Page](https://github.com/user-attachments/assets/7ec08a46-0877-421f-8416-97c562cad76a)
+
+
+🧑‍💼 Admin Dashboard
+
+![Admin_Dashboard](https://github.com/user-attachments/assets/71b14d87-d862-4e98-af80-c614e96953f5)
+
+
+👨‍🔧 Employee Dashboard
+
+
+![Employee_Dashboard](https://github.com/user-attachments/assets/d3577390-dbef-45a3-ad10-054531d7d836)
+
+
+👤 Client Dashboard
+
+![Client_Dashboard](https://github.com/user-attachments/assets/4b99eeac-09cb-447e-bf60-d08238c3f8a7)
+
 
 📁 Folder Structure
 
