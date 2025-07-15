@@ -106,4 +106,4 @@ LeadSphere/
 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-bobade-494104228)
 
 
-> ✨ Built as an MCA Final Year Project and also developed as a live client project during internship, demonstrating real-world CRM development with Flask & MySQL.
+> ✨ Built as an MCA Final Year Project and demonstrating real-world CRM development with Flask & MySQL.
